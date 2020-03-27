@@ -1,0 +1,7 @@
+
+glove6b100dtxt/glove.6B.100d.txt
+amazon-fine-food-reviews/Reviews.csv
+amazon-fine-food-reviews/hashes.txt
+amazon-fine-food-reviews/database.sqlite
+.ipynb_checkpoints/TEXT_SUMMARIZER-checkpoint.ipynb
+__pycache__/attention.cpython-37.pyc
